@@ -1,0 +1,19 @@
+video,drop_gen_hz,magnification,gain_db,black_level,laser_mw,inkjet_height,exposure_ms,fps,settings_certain,frame_start,frame_stop,notes
+evap_17,,2x,8.1,0,50,1.5,0.064,18,yes,,,drop generation rate not recorded; not 1 Hz
+evap_18,,2x,8.1,0,50,1.5,0.064,18,yes,,,drop generation rate not recorded; not 1 Hz
+evap_19,5,2x,8.1,0,50,1.5,0.064,18,yes,,,5 Hz drop generation
+evap_20,,2x,8.1,0,50,1.5,0.064,18,yes,,,drop generation rate not recorded; not 1 Hz
+evap_21,1,2x,8.1,0,50,1.5,0.064,18,yes,,,first 1 Hz video
+evap_26,1,2x,8.1,0,72,1.5,0.064,18,yes,,,notes list _26 under both 50 mW and 72 mW rows; 72 mW taken
+evap_27,1,2x,16.6,0,72,,0.064,18,no,,,inkjet height not recorded
+evap_28,1,2x,20.9,0,72,,0.064,18,no,,,gain not written (16.6 or 20.9); inkjet height not recorded
+evap_29,1,2x,29.4,127,72,1.5,0.064,18,yes,0,450,camera bumped after ~frame 450; only 0-449 usable
+evap_30,1,1.8x,16.6,0,72,1.5,0.064,18,yes,,,zoom "a bit below 2x"; lit-band height gives ~1.79x (0.898 of calibration)
+evap_31,1,2x,16.6,0,72,1.5,0.064,18,yes,,,zoom set back to 2x; lit-band height matches calibration
+evap_32,1,2x,20.9,0,72,4,0.064,18,yes,,,
+evap_35,1,2x,20.9,0,72,3.5,0.064,18,no,,,gain 16.6 or 20.9 (probably 20.9)
+evap_37,1,2x,20.9,0,72,3.5,0.064,18,yes,,,
+evap_38,1,2x,20.9,0,72,3.5,0.064,18,yes,,,
+150 vpt 500 IJ 20 Hz drop gen 60s_12,20,,,,,,0.064,18,no,,,20 Hz; not used for evaporation
+150 vpt 500 IJ 20 Hz drop gen 60s_15,20,,,,,,0.064,18,no,,,20 Hz; not used for evaporation
+150 vpt 500 IJ 20 Hz drop gen 60s_16,20,,,,,,0.064,18,no,,,20 Hz; not used for evaporation
